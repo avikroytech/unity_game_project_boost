@@ -3,10 +3,10 @@
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
 Library/
-/[Tt]emp/
+Temp/
 /[Oo]bj/
 /[Bb]uild/
-/[Bb]uilds/
+Builds/
 Logs/
 /[Mm]emoryCaptures/
 
